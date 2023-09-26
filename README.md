@@ -2,7 +2,6 @@
 A collection of scripts for analysing molecular dynamics simulations of nanopores and DNA translocation. Please reach out to me at punamrattu@gmail.com for queries and help.
 
 
-### Description of scripts
 |File name|Description|
 |---|---|
 |`ionic_current_through_pore/count_ion.pl`|Calculates the ionic current through a nanopore, as described by Aksimentiev et al. (https://doi.org/10.1529/biophysj.104.058727).|
